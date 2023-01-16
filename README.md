@@ -12,6 +12,10 @@
 - gRPC 统一 PB 仓库: https://github.com/ZuoFuhong/grpc-standard-pb
 - Monica 服务注册中心: https://github.com/ZuoFuhong/monica
 
-## License
+### 文档
+
+B站：https://www.bilibili.com/video/BV1eW4y1N7wj
+
+### License
 
 This project is licensed under the [Apache 2.0 license](https://github.com/ZuoFuhong/grpc-system-design/blob/master/LICENSE).
